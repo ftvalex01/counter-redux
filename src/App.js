@@ -1,9 +1,11 @@
+import React from "react";
+import Counter from "./components/counter/index"
 
 
 function App() {
   return (
     <div className="App">
-     funciono
+     <Counter/>
     </div>
   );
 }
